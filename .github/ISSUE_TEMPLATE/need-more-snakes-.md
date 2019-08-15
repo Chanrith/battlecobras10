@@ -1,6 +1,6 @@
 ---
 name: Need more?
-about: Contact us if you need more snakes.
+about: Contact us if you need more.
 title: ''
 labels: ''
 assignees: ''
