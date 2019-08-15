@@ -1,5 +1,5 @@
 ---
-name: Need more snakes?
+name: Need more?
 about: Contact us if you need more snakes.
 title: ''
 labels: ''
@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-How many more snakes?
+How many more?
 
-What kind of snakes?
+What kind?
 
-What colors are the snakes?
+What colors?
