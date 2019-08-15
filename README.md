@@ -1,26 +1,28 @@
+# Battle Cobras 10
 
-> Game name here
+![Battle Cobras 10](https://raw.githubusercontent.com/Chanrith/thegame/master/snakegame.png)
 
-> Azure Pipelines badge here
+Battle Cobras is an exciting new multiplayer snake battle royale experience from Acme Engineering the maker of Battle Cobras 1-9. Sink your fangs into the game and and rattle your opponents. 
 
-> Team Members 
+## Installation
 
+Install the latest [Node.js](https://nodejs.org)
 
-| Photo              | Name             | Role          |
-|--------------------|------------------|---------------|
-| ![alt](photo link) | Mona The Octocat | GitHub's Logo |
-|                    |                  |               |
-|                    |                  |               |
-
-----
-
-
-### running locally
-
-Install the latest [Node.js](http://nodejs.org) 8 Stable
-
-`npm install`
-
-`npm start`
+```bash
+npm install
+```
+```bash
+npm start
+```
 
 Open your web browser to `localhost:3000`
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
