@@ -29,11 +29,13 @@ Please make sure to update tests as appropriate.
 ## Creators
 
 <img src="https://raw.githubusercontent.com/Chanrith/thegame/master/jeffrey.jpg" width="100" height="100"/>
+
 Jeffrey Crose
 
 - <https://facebook.com/freshmaker>
 
 <img src="https://raw.githubusercontent.com/Chanrith/thegame/master/chanrith.jpg" width="100" height="100"/>
+
 Chanrith Peth
 
 - <https://facebook.com/chanrith>
